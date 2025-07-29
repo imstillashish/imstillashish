@@ -96,7 +96,7 @@
   
   ### 🚀 "From Zero to Hero - One Commit at a Time" 🚀
   
-  <img src="https://visitcount.itsvg.in/api?id=imstillashish&icon=5&color=6" alt="Profile Views" />
+  [![](https://visitcount.itsvg.in/api?id=imstillashish&icon=0&color=0)](https://visitcount.itsvg.in)
   
   **Thanks for visiting! Don't forget to ⭐ my repositories if you find them helpful!**
   
