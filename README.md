@@ -23,7 +23,13 @@
 - 💼 Open to **internship opportunities** and collaborative projects
   
 - 📚 Created **[Complete Python Notes](https://github.com/imstillashish/complete-python-notes)** - A comprehensive guide for learners
-  
+
+- 📂 Created **[Only Python Needed for DSA](https://github.com/imstillashish/Python_for_DSA)** - A comprehensive guide of Python before starting DSA
+
+- 🔬 **[LeetCode](https://leetcode.com/imstillashish/)**: Solving DSA problems daily and sharing my approach
+
+- 🔭 I'm currently working on **[DSA with Python](https://github.com/imstillashish/dsa-with-python)** - A repository for DSA problems solved with Python
+
 - ⚡ **Fun fact**: I believe consistency beats talent when talent doesn't work hard
 
 <br clear="both">
@@ -32,7 +38,10 @@
 
 <div align="center">
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/imstillashish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imstillashish) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/imstillashish) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.imstillashish@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/imstillashish) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imstillashish) 
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/imstillashish) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.imstillashish@gmail.com)
 
 </div>
 
