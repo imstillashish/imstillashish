@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ashish! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
+# Hi, I'm Ashish! <img src="https://drive.google.com/file/d/1FFQxUX0PQ6BvUc1qkSVXrjS3N7rsqcnD/view?usp=drive_link" width="28" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+%F0%9F%8E%93;Aspiring+Software+Engineer+%F0%9F%92%BB;From+Tier+3+to+MAANG+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -28,7 +28,7 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/imstillashish) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imstillashish) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/imstillashish) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.imstillashish@gmail.com)
 
