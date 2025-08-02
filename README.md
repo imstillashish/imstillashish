@@ -47,7 +47,7 @@
 ## 📊 GitHub Analytics
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=imstillashish&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img src="https://nirzak-streak-stats.vercel.app/?user=imstillashish&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=imstillashish&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img height="150" src="https://nirzak-streak-stats.vercel.app/?user=imstillashish&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
