@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240" role="img" aria-labelledby="ddTitle ddDesc">
+  <title id="ddTitle">Dead Drop Contact</title>
+  <desc id="ddDesc">Animated pulsing capsule with contact reveal.</desc>
+  <defs>
+    <radialGradient id="pulse" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00FF41" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00FF41" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#00FF41" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#0d1117" rx="12" ry="12"/>
+  <g transform="translate(320,120)" text-anchor="middle" font-family="Fira Sans, sans-serif">
+    <circle r="56" fill="url(#pulse)">
+      <animate attributeName="r" values="46;56;46" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.15;0.6" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <g filter="url(#shadow)">
+      <rect x="-120" y="-34" width="240" height="68" rx="8" fill="#071017"/>
+      <text x="0" y="6" fill="#00FF41" font-size="18" font-weight="700">DEAD DROP</text>
+      <text x="0" y="26" fill="#00D9FF" font-size="12">imstillashish [ at ] gmail.com</text>
+    </g>
+  </g>
+
+  <!-- subtle matrix rain in background -->
+  <g fill="#002b00" font-family="monospace" font-size="12" opacity="0.25">
+    <text x="20" y="30">0110</text>
+    <text x="40" y="50">1010</text>
+    <text x="60" y="70">1100</text>
+    <animateTransform attributeName="transform" type="translate" from="0 -10" to="0 10" dur="4s" repeatCount="indefinite" />
+  </g>
+</svg>
