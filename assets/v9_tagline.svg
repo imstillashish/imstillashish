@@ -1,0 +1,14 @@
+<svg width="800" height="140" viewBox="0 0 800 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="140" fill="#F5F5F7"/>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;900&display=swap');
+        text { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+    </style>
+    
+    <text x="40" y="40" font-size="24" font-weight="400" letter-spacing="-0.02em" fill="#1D1D1F">Logic</text>
+    <text x="40" y="75" font-size="24" font-weight="400" letter-spacing="-0.02em" fill="#1D1D1F">Defined By Void.</text>
+    
+    <!-- Hairline -->
+    <rect x="40" y="120" width="720" height="1" fill="#D2D2D7"/>
+    
+</svg>
