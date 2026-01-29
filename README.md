@@ -6,11 +6,11 @@
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=700&size=38&pause=1000&color=00ADB5&center=true&vCenter=true&width=800&height=70&lines=IMSTILLASHISH;SYSTEM_ARCHITECT;ALGORITHMIC_PURIST;BUILDING_THE_FUTURE" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI+Mono&weight=700&size=38&pause=1000&color=00ADB5&center=true&vCenter=true&width=800&height=70&lines=IMSTILLASHISH;SYSTEM_ARCHITECT;ALGORITHMIC_PURIST;BUILDING_THE_FUTURE" alt="Typing Animation" />
 </div>
 
 <p align="center">
-  <em style="font-family: 'Geist Mono', monospace; color: #EEEEEE; font-size: 14px; letter-spacing: 1px;">
+  <em style="font-family: 'Segoe UI Mono', monospace; color: #EEEEEE; font-size: 14px; letter-spacing: 1px;">
     Crafting scalable systems with cold precision.
   </em>
 </p>
@@ -42,7 +42,7 @@
   <img src="https://cdn.simpleicons.org/go/00ADB5" height="40" alt="Go" /> &nbsp;
   
   <!-- Separator -->
-  <img src="https://cdn.simpleicons.org/visualstudiocode/393E46" height="20" alt="|" /> &nbsp;
+  <img src="assets/separator.svg" height="20" alt="|" /> &nbsp;
   
   <!-- Frontend -->
   <img src="https://cdn.simpleicons.org/react/00ADB5" height="40" alt="React" /> &nbsp;
@@ -50,7 +50,7 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/00ADB5" height="40" alt="Tailwind" /> &nbsp;
   
   <!-- Separator -->
-  <img src="https://cdn.simpleicons.org/visualstudiocode/393E46" height="20" alt="|" /> &nbsp;
+  <img src="assets/separator.svg" height="20" alt="|" /> &nbsp;
   
   <!-- Backend/Tools -->
   <img src="https://cdn.simpleicons.org/nodedotjs/00ADB5" height="40" alt="Node.js" /> &nbsp;
@@ -132,7 +132,7 @@
 
 <div align="center">
   <a href="https://leetcode.com/imstillashish">
-    <img src="https://leetcard.jacoblin.cool/imstillashish?theme=unicorn&font=Geist%20Mono&ext=heatmap&bg=222831&title=00ADB5&text=EEEEEE&icon=00ADB5&border=393E46&opacity=1" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/imstillashish?theme=unicorn&font=Segoe%20UI%20Mono&ext=heatmap&bg=222831&title=00ADB5&text=EEEEEE&icon=00ADB5&border=393E46&opacity=1" alt="LeetCode Stats" />
   </a>
 </div>
 
@@ -145,8 +145,8 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imstillashish&show_icons=true&bg_color=222831&title_color=00ADB5&text_color=EEEEEE&icon_color=00ADB5&border_color=393E46&hide_border=true&font=Geist%20Mono" height="150" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imstillashish&theme=radical&background=222831&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5&sideNums=EEEEEE&dates=EEEEEE&hide_border=true" height="150" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imstillashish&show_icons=true&bg_color=222831&title_color=00ADB5&text_color=EEEEEE&icon_color=00ADB5&border_color=393E46&hide_border=true" height="150" alt="Stats" />
+  <img src="https://streak-stats.demolab.com?user=imstillashish&theme=radical&background=222831&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5&sideNums=EEEEEE&dates=EEEEEE&hide_border=true" height="150" alt="Streak" />
 </div>
 
 <br />
