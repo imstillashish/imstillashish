@@ -249,9 +249,9 @@
   </picture>
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=imstillashish&amp;theme=radical&amp;background=222831&amp;ring=00ADB5&amp;fire=00ADB5&amp;currStreakLabel=00ADB5&amp;sideNums=EEEEEE&amp;dates=EEEEEE&amp;hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=imstillashish&amp;theme=radical&amp;background=F5F5F7&amp;ring=000000&amp;fire=000000&amp;currStreakLabel=000000&amp;sideNums=1D1D1F&amp;dates=1D1D1F&amp;hide_border=true">
-    <img src="https://streak-stats.demolab.com?user=imstillashish&amp;theme=radical&amp;background=222831&amp;ring=00ADB5&amp;fire=00ADB5&amp;currStreakLabel=00ADB5&amp;sideNums=EEEEEE&amp;dates=EEEEEE&amp;hide_border=true" height="150" alt="Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=imstillashish&amp;theme=radical&amp;background=222831&amp;ring=00ADB5&amp;fire=00ADB5&amp;currStreakLabel=00ADB5&amp;sideNums=EEEEEE&amp;dates=EEEEEE&amp;hide_border=true&amp;locale=en">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=imstillashish&amp;theme=radical&amp;background=F5F5F7&amp;ring=000000&amp;fire=000000&amp;currStreakLabel=000000&amp;sideNums=1D1D1F&amp;dates=1D1D1F&amp;hide_border=true&amp;locale=en">
+    <img src="https://streak-stats.demolab.com?user=imstillashish&amp;theme=radical&amp;background=222831&amp;ring=00ADB5&amp;fire=00ADB5&amp;currStreakLabel=00ADB5&amp;sideNums=EEEEEE&amp;dates=EEEEEE&amp;hide_border=true&amp;locale=en" height="150" alt="Streak" />
   </picture>
 </div>
 
