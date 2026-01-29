@@ -91,7 +91,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&text=Make%20with%20%E2%9D%A4%EF%B8%8F&fontSize=60&fontColor=FCF8F8&fontAlign=50&fontAlignY=50&stroke=FBEFEF&strokeWidth=1&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&reversal=false&text=Made%20with%20%E2%9D%A4%EF%B8%8F&fontSize=60&fontColor=FCF8F8&fontAlign=50&fontAlignY=50&stroke=FBEFEF&strokeWidth=1&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
