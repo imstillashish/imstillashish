@@ -1,0 +1,19 @@
+<svg width="600" height="300" viewBox="0 0 600 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="600" height="300" fill="#222831" />
+    <rect x="2" y="2" width="596" height="296" stroke="#393E46" stroke-width="2" />
+    
+    <!-- Window Controls -->
+    <circle cx="30" cy="30" r="6" fill="#393E46" />
+    <circle cx="50" cy="30" r="6" fill="#393E46" />
+    <circle cx="70" cy="30" r="6" fill="#393E46" />
+    
+    <!-- Title -->
+    <text x="300.0" y="35" text-anchor="middle" font-family="monospace" fill="#EEEEEE" font-size="14">NodeJS-Express-API</text>
+    <line x1="0" y1="60" x2="600" y2="60" stroke="#393E46" />
+    
+    <!-- Code Content -->
+    <rect x="40" y="60" width="283" height="10" rx="2" fill="#393E46" opacity="0.5" /><rect x="40" y="80" width="393" height="10" rx="2" fill="#393E46" opacity="0.5" /><rect x="40" y="100" width="135" height="10" rx="2" fill="#393E46" opacity="0.5" /><rect x="40" y="120" width="183" height="10" rx="2" fill="#393E46" opacity="0.5" /><rect x="40" y="140" width="132" height="10" rx="2" fill="#393E46" opacity="0.5" /><rect x="40" y="160" width="188" height="10" rx="2" fill="#393E46" opacity="0.5" /><rect x="40" y="180" width="353" height="10" rx="2" fill="#393E46" opacity="0.5" /><rect x="40" y="200" width="267" height="10" rx="2" fill="#393E46" opacity="0.5" /><rect x="40" y="220" width="218" height="10" rx="2" fill="#393E46" opacity="0.5" /><rect x="40" y="240" width="371" height="10" rx="2" fill="#393E46" opacity="0.5" />
+    
+    <!-- Accent -->
+    <rect x="0" y="295" width="600" height="5" fill="#00ADB5" />
+</svg>
