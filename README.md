@@ -265,7 +265,7 @@
     © 2026 GHOSTML-X DESIGN LABS
   </p>
   <p align="right">
-    <a href="mailto:imstillashish@gmail.com" style="text-decoration: none; margin-left: 10px;">
+    <a href="mailto:work.imstillashish@gmail.com" style="text-decoration: none; margin-left: 10px;">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/00ADB5">
             <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/1D1D1F">
