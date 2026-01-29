@@ -1,173 +1,288 @@
-<!-- 
-  Design System: Cyber-Swiss
-  Palette: #222831 (Bg), #393E46 (Card), #00ADB5 (Accent), #EEEEEE (Text)
-  Typography: Geist Mono / System Monospace
-  Constraint: Zero Emoji. Pure SVG.
--->
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI+Mono&weight=700&size=38&pause=1000&color=00ADB5&center=true&vCenter=true&width=800&height=70&lines=IMSTILLASHISH;SYSTEM_ARCHITECT;ALGORITHMIC_PURIST;BUILDING_THE_FUTURE" alt="Typing Animation" />
-</div>
-
-<p align="center">
-  <em style="font-family: 'Segoe UI Mono', monospace; color: #EEEEEE; font-size: 14px; letter-spacing: 1px;">
-    Crafting scalable systems with cold precision.
-  </em>
-</p>
-
-<br />
-
-<!-- NOW Section -->
-<div align="center">
-  <a href="https://github.com/imstillashish">
-    <img src="https://img.shields.io/badge/STATUS-BUILDING_SCALABLE_SYSTEMS-222831?style=for-the-badge&logo=github&logoColor=00ADB5&labelColor=393E46" alt="Status" />
-  </a>
-  <a href="https://github.com/imstillashish">
-    <img src="https://img.shields.io/badge/FOCUS-DSA_MASTERY-222831?style=for-the-badge&logo=leetcode&logoColor=00ADB5&labelColor=393E46" alt="Focus" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+    <img alt="Ghost Swiss Header" src="assets/header-dark.svg" width="100%">
+  </picture>
 </div>
 
 <br />
 
-<!-- STACK -->
-<div align="center">
-  <img src="assets/header_stack.svg" width="100%" alt="Stack" />
-  <br /><br />
-  
-  <!-- Languages -->
-  <img src="https://cdn.simpleicons.org/cplusplus/00ADB5" height="40" alt="C++" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/python/00ADB5" height="40" alt="Python" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/00ADB5" height="40" alt="TypeScript" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/00ADB5" height="40" alt="JavaScript" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/go/00ADB5" height="40" alt="Go" /> &nbsp;
-  
-  <!-- Separator -->
-  <img src="assets/separator.svg" height="20" alt="|" /> &nbsp;
-  
-  <!-- Frontend -->
-  <img src="https://cdn.simpleicons.org/react/00ADB5" height="40" alt="React" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/00ADB5" height="40" alt="Next.js" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss/00ADB5" height="40" alt="Tailwind" /> &nbsp;
-  
-  <!-- Separator -->
-  <img src="assets/separator.svg" height="20" alt="|" /> &nbsp;
-  
-  <!-- Backend/Tools -->
-  <img src="https://cdn.simpleicons.org/nodedotjs/00ADB5" height="40" alt="Node.js" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/00ADB5" height="40" alt="PostgreSQL" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/docker/00ADB5" height="40" alt="Docker" /> &nbsp;
-  <img src="https://cdn.simpleicons.org/git/00ADB5" height="40" alt="Git" />
-</div>
-
-<br />
-
-<!-- FEATURED WORK -->
-<div align="center">
-  <img src="assets/header_work.svg" width="100%" alt="Selected Works" />
-  <br />
-</div>
-
-<table align="center" border="0" cellpadding="10" cellspacing="0">
+<!-- 2-Column Grid Simulation using Table -->
+<table>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/imstillashish/DSA-Mastery-Roadmap">
-        <img src="assets/project_dsa.svg" width="100%" alt="DSA Roadmap" />
-      </a>
-      <br />
-      <b style="color: #00ADB5; font-family: monospace;">DSA Mastery Roadmap</b>
-      <br />
-      <span style="color: #EEEEEE; font-size: 12px; font-family: monospace;">Comprehensive C++ & Python algorithms archive.</span>
-      <br />
-      <img src="https://img.shields.io/badge/C++-222831?style=flat-square&logo=cplusplus&logoColor=00ADB5" />
-      <img src="https://img.shields.io/badge/Python-222831?style=flat-square&logo=python&logoColor=00ADB5" />
+    <td width="50%" valign="top" style="border: none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+        <img src="assets/divider-dark.svg" width="100%">
+      </picture>
+      <br /><br />
+      <h3 style="font-family: 'Inter', sans-serif; letter-spacing: 3px; text-transform: uppercase;">THE PRINCIPLE</h3>
+      <p style="font-family: 'Inter', sans-serif; font-size: 16px; line-height: 1.6;">
+        Crafting scalable systems with cold precision.
+      </p>
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/imstillashish/Web-Dev-Roadmap">
-        <img src="assets/project_web.svg" width="100%" alt="Web Roadmap" />
-      </a>
-      <br />
-      <b style="color: #00ADB5; font-family: monospace;">Modern Web Engineering</b>
-      <br />
-      <span style="color: #EEEEEE; font-size: 12px; font-family: monospace;">Full-stack mastery from HTTP to Serverless.</span>
-      <br />
-      <img src="https://img.shields.io/badge/TypeScript-222831?style=flat-square&logo=typescript&logoColor=00ADB5" />
-      <img src="https://img.shields.io/badge/React-222831?style=flat-square&logo=react&logoColor=00ADB5" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/imstillashish/NodeJS-Express-API">
-        <img src="assets/project_api.svg" width="100%" alt="Express API" />
-      </a>
-      <br />
-      <b style="color: #00ADB5; font-family: monospace;">Production API Core</b>
-      <br />
-      <span style="color: #EEEEEE; font-size: 12px; font-family: monospace;">Scalable microservices architecture base.</span>
-      <br />
-      <img src="https://img.shields.io/badge/Node.js-222831?style=flat-square&logo=nodedotjs&logoColor=00ADB5" />
-      <img src="https://img.shields.io/badge/Docker-222831?style=flat-square&logo=docker&logoColor=00ADB5" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/imstillashish/NextJS-FullStack">
-        <img src="assets/project_next.svg" width="100%" alt="NextJS FullStack" />
-      </a>
-      <br />
-      <b style="color: #00ADB5; font-family: monospace;">Next.js Enterprise</b>
-      <br />
-      <span style="color: #EEEEEE; font-size: 12px; font-family: monospace;">High-performance SSR/ISR framework.</span>
-      <br />
-      <img src="https://img.shields.io/badge/Next.js-222831?style=flat-square&logo=nextdotjs&logoColor=00ADB5" />
-      <img src="https://img.shields.io/badge/Vercel-222831?style=flat-square&logo=vercel&logoColor=00ADB5" />
+    <td width="50%" valign="top" style="border: none;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+        <img src="assets/divider-dark.svg" width="100%">
+      </picture>
+      <br /><br />
+      <h3 style="font-family: 'Inter', sans-serif; letter-spacing: 3px; text-transform: uppercase;">THE EXECUTION</h3>
+      <p style="font-family: 'Inter', sans-serif; font-size: 16px; line-height: 1.6;">
+        Algorithmic purity. Architectural integrity. Zero fluff.
+      </p>
     </td>
   </tr>
 </table>
 
 <br />
 
-<!-- PROBLEM SOLVING -->
-<div align="center">
-  <img src="assets/header_solving.svg" width="100%" alt="Algorithmic Prowess" />
-  <br />
+<!-- Tech Stack Section -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img src="assets/divider-dark.svg" width="100%">
+</picture>
+<br />
+<h3 style="font-family: 'Inter', sans-serif; letter-spacing: 3px; text-transform: uppercase;">SYSTEM_ARCH</h3>
+<br />
+
+<div align="left">
+  <!-- C++ -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/cplusplus/00ADB5">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/cplusplus/1D1D1F">
+    <img src="https://cdn.simpleicons.org/cplusplus/00ADB5" height="40" alt="C++" />
+  </picture>
+  &nbsp;
+  <!-- Python -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/00ADB5">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/1D1D1F">
+    <img src="https://cdn.simpleicons.org/python/00ADB5" height="40" alt="Python" />
+  </picture>
+  &nbsp;
+  <!-- TypeScript -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/00ADB5">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/typescript/1D1D1F">
+    <img src="https://cdn.simpleicons.org/typescript/00ADB5" height="40" alt="TypeScript" />
+  </picture>
+  &nbsp;
+  <!-- JavaScript -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/00ADB5">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/javascript/1D1D1F">
+    <img src="https://cdn.simpleicons.org/javascript/00ADB5" height="40" alt="JavaScript" />
+  </picture>
+  &nbsp;
+  <!-- Go -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/go/00ADB5">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/go/1D1D1F">
+    <img src="https://cdn.simpleicons.org/go/00ADB5" height="40" alt="Go" />
+  </picture>
+  &nbsp;
+  <!-- React -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/00ADB5">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/1D1D1F">
+    <img src="https://cdn.simpleicons.org/react/00ADB5" height="40" alt="React" />
+  </picture>
+  &nbsp;
+  <!-- Next.js -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/00ADB5">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/1D1D1F">
+    <img src="https://cdn.simpleicons.org/nextdotjs/00ADB5" height="40" alt="Next.js" />
+  </picture>
+  &nbsp;
+  <!-- Tailwind -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/00ADB5">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/1D1D1F">
+    <img src="https://cdn.simpleicons.org/tailwindcss/00ADB5" height="40" alt="Tailwind" />
+  </picture>
+  &nbsp;
+  <!-- Node.js -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nodedotjs/00ADB5">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nodedotjs/1D1D1F">
+    <img src="https://cdn.simpleicons.org/nodedotjs/00ADB5" height="40" alt="Node.js" />
+  </picture>
+  &nbsp;
+  <!-- PostgreSQL -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/00ADB5">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql/1D1D1F">
+    <img src="https://cdn.simpleicons.org/postgresql/00ADB5" height="40" alt="PostgreSQL" />
+  </picture>
+  &nbsp;
+  <!-- Docker -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/docker/00ADB5">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/docker/1D1D1F">
+    <img src="https://cdn.simpleicons.org/docker/00ADB5" height="40" alt="Docker" />
+  </picture>
+  &nbsp;
+  <!-- Git -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/00ADB5">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/git/1D1D1F">
+    <img src="https://cdn.simpleicons.org/git/00ADB5" height="40" alt="Git" />
+  </picture>
 </div>
 
+<br /><br />
+
+<!-- Selected Works -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img src="assets/divider-dark.svg" width="100%">
+</picture>
+<br />
+<h3 style="font-family: 'Inter', sans-serif; letter-spacing: 3px; text-transform: uppercase;">SELECTED_WORKS</h3>
+<br />
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top" style="border: none; padding-right: 10px;">
+      <a href="https://github.com/imstillashish/DSA-Mastery-Roadmap" style="text-decoration: none;">
+        <h4 style="margin-bottom: 5px; text-transform: uppercase; letter-spacing: 1px;">DSA Mastery Roadmap</h4>
+      </a>
+      <p style="font-size: 13px; opacity: 0.8;">Comprehensive C++ & Python algorithms archive.</p>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C++-222831?style=flat-square&logo=cplusplus&logoColor=00ADB5">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C++-F5F5F7?style=flat-square&logo=cplusplus&logoColor=1D1D1F&labelColor=D2D2D7">
+        <img src="https://img.shields.io/badge/C++-222831?style=flat-square&logo=cplusplus&logoColor=00ADB5" />
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-222831?style=flat-square&logo=python&logoColor=00ADB5">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-F5F5F7?style=flat-square&logo=python&logoColor=1D1D1F&labelColor=D2D2D7">
+        <img src="https://img.shields.io/badge/Python-222831?style=flat-square&logo=python&logoColor=00ADB5" />
+      </picture>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding-left: 10px;">
+      <a href="https://github.com/imstillashish/Web-Dev-Roadmap" style="text-decoration: none;">
+        <h4 style="margin-bottom: 5px; text-transform: uppercase; letter-spacing: 1px;">Modern Web Engineering</h4>
+      </a>
+      <p style="font-size: 13px; opacity: 0.8;">Full-stack mastery from HTTP to Serverless.</p>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/TypeScript-222831?style=flat-square&logo=typescript&logoColor=00ADB5">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/TypeScript-F5F5F7?style=flat-square&logo=typescript&logoColor=1D1D1F&labelColor=D2D2D7">
+        <img src="https://img.shields.io/badge/TypeScript-222831?style=flat-square&logo=typescript&logoColor=00ADB5" />
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/React-222831?style=flat-square&logo=react&logoColor=00ADB5">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/React-F5F5F7?style=flat-square&logo=react&logoColor=1D1D1F&labelColor=D2D2D7">
+        <img src="https://img.shields.io/badge/React-222831?style=flat-square&logo=react&logoColor=00ADB5" />
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" height="20"></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: none; padding-right: 10px;">
+      <a href="https://github.com/imstillashish/NodeJS-Express-API" style="text-decoration: none;">
+        <h4 style="margin-bottom: 5px; text-transform: uppercase; letter-spacing: 1px;">Production API Core</h4>
+      </a>
+      <p style="font-size: 13px; opacity: 0.8;">Scalable microservices architecture base.</p>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-222831?style=flat-square&logo=nodedotjs&logoColor=00ADB5">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Node.js-F5F5F7?style=flat-square&logo=nodedotjs&logoColor=1D1D1F&labelColor=D2D2D7">
+        <img src="https://img.shields.io/badge/Node.js-222831?style=flat-square&logo=nodedotjs&logoColor=00ADB5" />
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-222831?style=flat-square&logo=docker&logoColor=00ADB5">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Docker-F5F5F7?style=flat-square&logo=docker&logoColor=1D1D1F&labelColor=D2D2D7">
+        <img src="https://img.shields.io/badge/Docker-222831?style=flat-square&logo=docker&logoColor=00ADB5" />
+      </picture>
+    </td>
+    <td width="50%" valign="top" style="border: none; padding-left: 10px;">
+      <a href="https://github.com/imstillashish/NextJS-FullStack" style="text-decoration: none;">
+        <h4 style="margin-bottom: 5px; text-transform: uppercase; letter-spacing: 1px;">Next.js Enterprise</h4>
+      </a>
+      <p style="font-size: 13px; opacity: 0.8;">High-performance SSR/ISR framework.</p>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Next.js-222831?style=flat-square&logo=nextdotjs&logoColor=00ADB5">
+        <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Next.js-F5F5F7?style=flat-square&logo=nextdotjs&logoColor=1D1D1F&labelColor=D2D2D7">
+        <img src="https://img.shields.io/badge/Next.js-222831?style=flat-square&logo=nextdotjs&logoColor=00ADB5" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br /><br />
+
+<!-- Metrics Section -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img src="assets/divider-dark.svg" width="100%">
+</picture>
+<br />
+<h3 style="font-family: 'Inter', sans-serif; letter-spacing: 3px; text-transform: uppercase;">METRICS</h3>
+<br />
+
 <div align="center">
+  <!-- LeetCode -->
   <a href="https://leetcode.com/imstillashish">
-    <img src="https://leetcard.jacoblin.cool/imstillashish?theme=unicorn&font=Segoe%20UI%20Mono&ext=heatmap&bg=222831&title=00ADB5&text=EEEEEE&icon=00ADB5&border=393E46&opacity=1" alt="LeetCode Stats" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/imstillashish?theme=unicorn&font=Segoe%20UI%20Mono&ext=heatmap&bg=222831&title=00ADB5&text=EEEEEE&icon=00ADB5&border=393E46&opacity=1">
+      <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/imstillashish?theme=unicorn&font=Segoe%20UI%20Mono&ext=heatmap&bg=F5F5F7&title=000000&text=1D1D1F&icon=000000&border=D2D2D7&opacity=1">
+      <img src="https://leetcard.jacoblin.cool/imstillashish?theme=unicorn&font=Segoe%20UI%20Mono&ext=heatmap&bg=222831&title=00ADB5&text=EEEEEE&icon=00ADB5&border=393E46&opacity=1" alt="LeetCode Stats" />
+    </picture>
   </a>
-</div>
-
-<br />
-
-<!-- METRICS -->
-<div align="center">
-  <img src="assets/header_stats.svg" width="100%" alt="Metrics" />
+  
   <br />
+  
+  <!-- GitHub Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=imstillashish&show_icons=true&bg_color=222831&title_color=00ADB5&text_color=EEEEEE&icon_color=00ADB5&border_color=393E46&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=imstillashish&show_icons=true&bg_color=F5F5F7&title_color=000000&text_color=1D1D1F&icon_color=000000&border_color=D2D2D7&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=imstillashish&show_icons=true&bg_color=222831&title_color=00ADB5&text_color=EEEEEE&icon_color=00ADB5&border_color=393E46&hide_border=true" height="150" alt="Stats" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=imstillashish&theme=radical&background=222831&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5&sideNums=EEEEEE&dates=EEEEEE&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=imstillashish&theme=radical&background=F5F5F7&ring=000000&fire=000000&currStreakLabel=000000&sideNums=1D1D1F&dates=1D1D1F&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=imstillashish&theme=radical&background=222831&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5&sideNums=EEEEEE&dates=EEEEEE&hide_border=true" height="150" alt="Streak" />
+  </picture>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imstillashish&show_icons=true&bg_color=222831&title_color=00ADB5&text_color=EEEEEE&icon_color=00ADB5&border_color=393E46&hide_border=true" height="150" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=imstillashish&theme=radical&background=222831&ring=00ADB5&fire=00ADB5&currStreakLabel=00ADB5&sideNums=EEEEEE&dates=EEEEEE&hide_border=true" height="150" alt="Streak" />
+<br /><br />
+
+<!-- Footer -->
+<div style="border-top: 1px solid #777; padding-top: 20px; display: flex; justify-content: space-between;">
+  <p style="font-size: 10px; font-weight: bold; text-transform: uppercase; letter-spacing: 2px; opacity: 0.6;">
+    © 2026 GHOSTML-X DESIGN LABS
+  </p>
+  <p align="right">
+    <a href="mailto:imstillashish@gmail.com" style="text-decoration: none; margin-left: 10px;">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/00ADB5">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/1D1D1F">
+            <img src="https://cdn.simpleicons.org/gmail/00ADB5" height="16" />
+        </picture>
+    </a>
+    <a href="https://twitter.com/imstillashish" style="text-decoration: none; margin-left: 10px;">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/00ADB5">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/1D1D1F">
+            <img src="https://cdn.simpleicons.org/x/00ADB5" height="16" />
+        </picture>
+    </a>
+    <a href="https://linkedin.com/in/imstillashish" style="text-decoration: none; margin-left: 10px;">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/00ADB5">
+            <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/linkedin/1D1D1F">
+            <img src="https://cdn.simpleicons.org/linkedin/00ADB5" height="16" />
+        </picture>
+    </a>
+  </p>
 </div>
-
-<br />
-
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=imstillashish&color=00ADB5&style=flat-square&label=VISITORS" alt="Visitors" />
-  <br /><br />
-  <a href="mailto:imstillashish@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/00ADB5" height="24" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/imstillashish">
-    <img src="https://cdn.simpleicons.org/x/00ADB5" height="24" alt="X" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/imstillashish">
-    <img src="https://cdn.simpleicons.org/linkedin/00ADB5" height="24" alt="LinkedIn" />
-  </a>
-</div>
-
-<br />
-
-<!-- Noise Overlay (Simulated via footer image to not block clicks, or just ignored if complex) -->
