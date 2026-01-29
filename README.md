@@ -74,7 +74,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=imstillashish&locale=en&mode=daily&theme=panda&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=imstillashish&theme=panda" height="220" alt="streak graph"  />
 </div>
 
 ###
