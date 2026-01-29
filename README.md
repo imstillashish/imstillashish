@@ -248,11 +248,13 @@
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=imstillashish&amp;show_icons=true&amp;bg_color=222831&amp;title_color=00ADB5&amp;text_color=EEEEEE&amp;icon_color=00ADB5&amp;border_color=393E46&amp;hide_border=true" height="150" alt="Stats" />
   </picture>
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=imstillashish&amp;theme=radical&amp;background=222831&amp;ring=00ADB5&amp;fire=00ADB5&amp;currStreakLabel=00ADB5&amp;sideNums=EEEEEE&amp;dates=EEEEEE&amp;hide_border=true&amp;locale=en">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=imstillashish&amp;theme=radical&amp;background=F5F5F7&amp;ring=000000&amp;fire=000000&amp;currStreakLabel=000000&amp;sideNums=1D1D1F&amp;dates=1D1D1F&amp;hide_border=true&amp;locale=en">
-    <img src="https://streak-stats.demolab.com?user=imstillashish&amp;theme=radical&amp;background=222831&amp;ring=00ADB5&amp;fire=00ADB5&amp;currStreakLabel=00ADB5&amp;sideNums=EEEEEE&amp;dates=EEEEEE&amp;hide_border=true&amp;locale=en" height="150" alt="Streak" />
-  </picture>
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=imstillashish&amp;theme=radical&amp;background=222831&amp;ring=00ADB5&amp;fire=00ADB5&amp;currStreakLabel=00ADB5&amp;sideNums=EEEEEE&amp;dates=EEEEEE&amp;hide_border=true&amp;short_numbers=true&amp;hide_total_contributions=true&amp;locale=en">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=imstillashish&amp;theme=radical&amp;background=F5F5F7&amp;ring=000000&amp;fire=000000&amp;currStreakLabel=000000&amp;sideNums=1D1D1F&amp;dates=1D1D1F&amp;hide_border=true&amp;short_numbers=true&amp;hide_total_contributions=true&amp;locale=en">
+      <img src="https://streak-stats.demolab.com?user=imstillashish&amp;theme=radical&amp;background=222831&amp;ring=00ADB5&amp;fire=00ADB5&amp;currStreakLabel=00ADB5&amp;sideNums=EEEEEE&amp;dates=EEEEEE&amp;hide_border=true&amp;short_numbers=true&amp;hide_total_contributions=true&amp;locale=en" height="150" alt="GitHub Streak" />
+    </picture>
+  </a>
 </div>
 
 <br /><br />
