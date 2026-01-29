@@ -1,9 +1,0 @@
-<svg width="800" height="60" viewBox="0 0 800 60" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <style>
-        .text { font-family: 'Segoe UI Mono', 'Roboto Mono', monospace; font-weight: bold; font-size: 24px; fill: #00ADB5; letter-spacing: 2px; text-transform: uppercase; }
-        .line { stroke: #393E46; stroke-width: 1; }
-    </style>
-    <text x="0" y="40" class="text">04 // METRICS</text>
-    <line x1="0" y1="55" x2="800" y2="55" class="line" />
-    <rect x="760" y="35" width="40" height="5" fill="#00ADB5" />
-</svg>
