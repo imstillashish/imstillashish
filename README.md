@@ -1,5 +1,3 @@
-<img align="left" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9xMmtrYnEwbzdrMGphNjQ1YXd0ZWVibjlvcXcxZGFmNWl2MW8yaSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/dw4Ua0oQsZPPdngT7j/giphy.gif"  />
-
 ###
 
 <div align="center">
@@ -35,10 +33,6 @@
 ###
 
 <h2 align="left">🫠 About Me</h2>
-
-###
-
-<img align="right" height="500" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGJwZGRxa2xld2NyaDZ6amR2amFtMHgydjB3ajRnOHFreWdjNGVpYSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/MZ7yrimhG3DThJqHjl/giphy.gif"  />
 
 ###
 
