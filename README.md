@@ -40,6 +40,16 @@
 
 ###
 
+<h2 align="left">🚀 Featured Project: Orthex</h2>
+
+###
+
+<p align="left">
+  I built <strong><a href="https://github.com/imstillashish/orthex">Orthex</a></strong> — a free Chrome extension that debriefs your LeetCode submissions like a senior engineer. It automatically graphs your time/space complexity and grades your code style, right inside your browser.
+</p>
+
+###
+
 <h2 align="left">🛠 Language and tools</h2>
 
 ###
