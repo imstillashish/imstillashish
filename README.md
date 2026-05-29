@@ -28,7 +28,9 @@
 
 ###
 
-<h3 align="center">Chasing dreams with determination and grit.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=393E46&center=true&vCenter=true&width=600&lines=Chasing+dreams+with+determination+and+grit;Building+Orthex+—+The+LeetCode+AI+Reviewer;Learning+DSA+and+Web+Development;Building+tools+that+actually+teach" alt="Typing SVG" />
+</div>
 
 ###
 
